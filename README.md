@@ -14,6 +14,8 @@ What I did:
 9. Split the ScheduledDay and AppointmentDay columns into ScheduledDate, ScheduledTime, AppointmentDate, and AppointmentTime respectively.
 10. Dropped ScheduledDay and AppointmentDay columns.
 11. Visualized a few charts
+
+    
     a. Age Distribution by Gender
     b. Gender vs Diabetes
     c. Gender vs Hipertension
