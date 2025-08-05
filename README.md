@@ -15,13 +15,18 @@ What I did:
 10. Dropped ScheduledDay and AppointmentDay columns.
 11. Visualized a few charts
 
-    
     a. Age Distribution by Gender
+    
     b. Gender vs Diabetes
+    
     c. Gender vs Hipertension
+
     d. Gender vs Alcoholism
+
     e. Age vs Alcoholism
+
     f. Gender vs Scholarship
+
     g. No show vs Gender
 
 Dataset: https://www.kaggle.com/datasets/joniarroba/noshowappointments
